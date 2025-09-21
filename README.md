@@ -2,7 +2,6 @@
 
 MiniModa, bebek giyim ürünleri için geliştirilmiş bir **e-ticaret uygulamasıdır**.  
 Kullanıcılar ürünleri görüntüleyebilir, sepete ekleyebilir, kayıt/giriş yapabilir ve sipariş oluşturabilir.  
-Admin paneli üzerinden ürün ve sipariş yönetimi yapılabilmektedir.  
 
 ## 🚀 Teknolojiler
 - **Backend:** ASP.NET Core 8.0, Entity Framework Core, Repository Pattern, JWT Authentication  
